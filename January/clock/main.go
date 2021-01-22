@@ -23,6 +23,6 @@ func main() {
 // 3600 mins in an hour
 // 60 second in a minute
 // 1000 milliseconds in a second
-func past(h, m, s int) int {
+func Past(h, m, s int) int {
 	return ((h * 3600) + (m * 60) + s) * 1000
 }

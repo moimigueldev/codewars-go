@@ -17,7 +17,7 @@ package main
 // 0 <= s <= 59
 
 func main() {
-	past(0, 1, 1)
+	Past(0, 1, 1)
 }
 
 // 3600 mins in an hour
